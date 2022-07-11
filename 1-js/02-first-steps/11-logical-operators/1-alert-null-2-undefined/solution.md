@@ -3,4 +3,3 @@
 ```js run
 alert( null || 2 || undefined );
 ```
-
